@@ -17,7 +17,7 @@ To run this game on your local machine, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/guessing-game.git
+git clone https://github.com/mokshithcodez/Guessing-Game-Using-Python.git
 2. Navigate to the project directory
 bash
 Copy code
