@@ -1,26 +1,4 @@
-# Guessing Game
 
-A simple number guessing game where the user has to guess a randomly generated number between 1 and 100. The game provides audio feedback and printed output to guide the user through the process.
-
-## Features
-
-- **Text-to-Speech (TTS)**: The game uses `pyttsx3` for text-to-speech functionality, providing audio feedback.
-- **Random Number Generation**: A random number between 1 and 100 is generated, and the user has to guess it.
-- **Interactive Gameplay**: The user receives feedback on their guesses whether they are too high or too low.
-- **Exit Option**: The user can type `404` to exit the game.
-
-## Installation
-
-To run this game on your local machine, follow
-
-You said:
-Add Emojis
-ChatGPT said:
-ChatGPT
-Sure! Here's an updated version of the README.md with emojis added for a more engaging presentation:
-
-markdown
-Copy code
 # Guessing Game 🎮
 
 A simple number guessing game where the user has to guess a randomly generated number between 1 and 100. The game provides audio feedback and printed output to guide the user through the process. 🎧
